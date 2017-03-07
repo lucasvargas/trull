@@ -1,2 +1,2 @@
-# trull
+# Trull
 Trull Project - Positive Programing
